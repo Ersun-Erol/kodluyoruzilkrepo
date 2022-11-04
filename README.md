@@ -28,4 +28,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 ## Patika Profilim
 ---
-[patika](https://app.patika.dev/ersun)
+[Patika](https://app.patika.dev/ersun)
